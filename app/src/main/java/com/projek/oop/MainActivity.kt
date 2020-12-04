@@ -1,4 +1,4 @@
-package com.satria.oop
+package com.projek.oop
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
